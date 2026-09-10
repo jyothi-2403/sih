@@ -1,0 +1,7 @@
+{
+  "name": "Pragya AI",
+  "description": "AI-powered personalized and gamified learning platform for India's Official Statistical System (SIH 2026 Problem Statement 26101) with competency gap analysis, interactive games, adaptive quizzes, and iGOT Karmayogi integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
